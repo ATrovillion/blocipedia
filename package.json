@@ -1,0 +1,19 @@
+{
+  "name": "blocipedia",
+  "version": "1.0.0",
+  "description": "An app to allow users to create, collaborate, and share wikis",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "export NODE_ENV=test&& jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATrovillion/blocipedia.git"
+  },
+  "author": "Aaron Trovillion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATrovillion/blocipedia/issues"
+  },
+  "homepage": "https://github.com/ATrovillion/blocipedia#readme"
+}
